@@ -1,0 +1,253 @@
+{
+  "beaches": [
+    {
+      "id": "whitehaven",
+      "name": "Whitehaven Beach",
+      "country": "Australia",
+      "category": "beach",
+      "categoryLabel": "Beach escape",
+      "mood": "White sand. Blue horizons.",
+      "activity": "Slow walks · Coastal scenery",
+      "timeZone": "Australia/Brisbane",
+      "mapQuery": "Whitehaven Beach Whitsunday Island Australia",
+      "description": "A sweep of brilliant white sand meets turquoise water in the Whitsunday Islands. A destination for slow beach walks and wide-open coastal views.",
+      "details": "Whitehaven Beach lies on Whitsunday Island, off the coast of Queensland. Explore its white silica sand and the changing patterns of sand and water near Hill Inlet. It is a natural setting to appreciate from the shore or a viewpoint, with access generally arranged from the mainland or nearby islands.",
+      "imageAlt": "White sand and turquoise water at Whitehaven Beach",
+      "imageUrl": "images/whitehaven.webp",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Whitehaven_Beach",
+      "tags": [
+        "beach",
+        "Beach escape",
+        "White sand. Blue horizons.",
+        "Slow walks · Coastal scenery"
+      ]
+    },
+    {
+      "id": "bora-bora",
+      "name": "Bora Bora",
+      "country": "French Polynesia",
+      "category": "beach",
+      "categoryLabel": "Beach escape",
+      "mood": "Island time, beautifully spent.",
+      "activity": "Lagoon views · Island scenery",
+      "timeZone": "Pacific/Tahiti",
+      "mapQuery": "Bora Bora French Polynesia",
+      "description": "A volcanic island wrapped in a vivid blue lagoon. Come for the ocean views and stay for the feeling of being a little further from everyday life.",
+      "details": "Bora Bora is part of the Society Islands in French Polynesia. Its central volcanic peaks and surrounding reef give the island a distinctive lagoon landscape. Explore coastal viewpoints and learn about the island’s Polynesian culture as you plan a slower-paced escape.",
+      "imageAlt": "Bora Bora island surrounded by a turquoise lagoon",
+      "imageUrl": "images/bora-bora.webp",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bora_Bora",
+      "tags": [
+        "beach",
+        "Beach escape",
+        "Island time, beautifully spent.",
+        "Lagoon views · Island scenery"
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": "angkor",
+      "name": "Angkor Wat",
+      "country": "Cambodia",
+      "category": "temple",
+      "categoryLabel": "Temple journey",
+      "mood": "A story written in stone.",
+      "activity": "Architecture · Cultural heritage",
+      "timeZone": "Asia/Phnom_Penh",
+      "mapQuery": "Angkor Wat Siem Reap Cambodia",
+      "description": "Discover monumental Khmer architecture, intricate stone reliefs and reflections across the surrounding moat near Siem Reap.",
+      "details": "Angkor Wat is a temple complex near Siem Reap, built in the early twelfth century during the Khmer Empire. Its towers, galleries and reliefs offer a remarkable encounter with the history of the Angkor region. Explore respectfully and consult current visitor guidance before your trip.",
+      "imageAlt": "Angkor Wat temple towers and their reflection in Cambodia",
+      "imageUrl": "images/angkor.webp",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "tags": [
+        "temple",
+        "Temple journey",
+        "A story written in stone.",
+        "Architecture · Cultural heritage"
+      ]
+    },
+    {
+      "id": "kiyomizu",
+      "name": "Kiyomizu-dera",
+      "country": "Japan",
+      "category": "temple",
+      "categoryLabel": "Temple journey",
+      "mood": "A different perspective on Kyoto.",
+      "activity": "Temple gardens · City views",
+      "timeZone": "Asia/Tokyo",
+      "mapQuery": "Kiyomizu dera Kyoto Japan",
+      "description": "A historic Buddhist temple set on the hills of eastern Kyoto, known for its wooden stage and views over the city.",
+      "details": "Kiyomizu-dera sits in Kyoto’s Higashiyama area, with temple buildings and a wooden veranda overlooking a wooded hillside. The surrounding lanes invite a slower exploration of traditional streets and small shops. Combine the temple with time to discover the historic neighborhood.",
+      "imageAlt": "Kiyomizu-dera temple and wooded hillside in Kyoto",
+      "imageUrl": "images/kiyomizu.webp",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kiyomizu-dera",
+      "tags": [
+        "temple",
+        "Temple journey",
+        "A different perspective on Kyoto.",
+        "Temple gardens · City views"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "name": "Australia",
+      "aliases": [
+        "australian"
+      ],
+      "cities": [
+        {
+          "id": "sydney",
+          "name": "Sydney",
+          "country": "Australia",
+          "category": "country",
+          "categoryLabel": "City discovery",
+          "mood": "Harbor days, coastal ways.",
+          "activity": "Harbor walks · Architecture",
+          "timeZone": "Australia/Sydney",
+          "mapQuery": "Sydney Opera House Australia",
+          "description": "A city shaped by its harbor. Discover the Sydney Opera House, waterfront walks and the meeting point of urban energy and coastal scenery.",
+          "details": "Sydney combines harbor landscapes, distinctive architecture and neighborhoods with their own character. Start around the Opera House and Circular Quay, then use the city’s waterfront paths as a way to explore. Add time for galleries, public gardens and coastal scenery.",
+          "imageAlt": "The Sydney Opera House beside Sydney Harbour",
+          "imageUrl": "images/sydney.webp",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+          "tags": [
+            "country",
+            "City discovery",
+            "Harbor days, coastal ways.",
+            "Harbor walks · Architecture"
+          ]
+        },
+        {
+          "id": "melbourne",
+          "name": "Melbourne",
+          "country": "Australia",
+          "category": "country",
+          "categoryLabel": "City discovery",
+          "mood": "Find your favorite little lane.",
+          "activity": "Laneways · Arts and culture",
+          "timeZone": "Australia/Melbourne",
+          "mapQuery": "Melbourne Australia",
+          "description": "Explore a city of laneways, galleries, gardens and street-side cafés. Melbourne rewards a curious turn and an unhurried afternoon.",
+          "details": "Melbourne’s central city is known for its grid of streets and smaller laneways, alongside civic buildings, galleries and parks. Spend time exploring on foot, discovering public art and different neighborhoods. Its mix of culture and urban life offers plenty of starting points for a city break.",
+          "imageAlt": "Melbourne city skyline and urban landscape",
+          "imageUrl": "images/melbourne.webp",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Melbourne",
+          "tags": [
+            "country",
+            "City discovery",
+            "Find your favorite little lane.",
+            "Laneways · Arts and culture"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "aliases": [
+        "japanese"
+      ],
+      "cities": [
+        {
+          "id": "tokyo",
+          "name": "Tokyo",
+          "country": "Japan",
+          "category": "country",
+          "categoryLabel": "City discovery",
+          "mood": "Big-city wonder, small discoveries.",
+          "activity": "Neighborhoods · Urban culture",
+          "timeZone": "Asia/Tokyo",
+          "mapQuery": "Tokyo Japan",
+          "description": "Discover a city where historic districts, contemporary design and quiet gardens sit alongside dazzling streets and a lively food culture.",
+          "details": "Tokyo is a collection of distinctive neighborhoods as much as a single destination. Explore the contrast between historic Asakusa, the streets of Shibuya and the quieter spaces of city gardens. Build an itinerary around the interests that matter to you rather than trying to see everything at once.",
+          "imageAlt": "Urban skyline and city views of Tokyo",
+          "imageUrl": "images/tokyo.webp",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo",
+          "tags": [
+            "country",
+            "City discovery",
+            "Big-city wonder, small discoveries.",
+            "Neighborhoods · Urban culture"
+          ]
+        },
+        {
+          "id": "kyoto",
+          "name": "Kyoto",
+          "country": "Japan",
+          "category": "country",
+          "categoryLabel": "City discovery",
+          "mood": "Slow down and look a little closer.",
+          "activity": "Historic streets · Gardens",
+          "timeZone": "Asia/Tokyo",
+          "mapQuery": "Kyoto Japan",
+          "description": "Temple gardens, traditional streets and wooded hills give Kyoto a rhythm of its own. An invitation to explore Japan’s cultural heritage.",
+          "details": "Kyoto served as Japan’s capital for many centuries and retains an extraordinary collection of temples, shrines and historic districts. Explore its gardens and streets with patience, leaving space to appreciate the details. Respect residential neighborhoods and local guidance when visiting historic areas.",
+          "imageAlt": "Historic architecture and landscape in Kyoto",
+          "imageUrl": "images/kyoto.webp",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto",
+          "tags": [
+            "country",
+            "City discovery",
+            "Slow down and look a little closer.",
+            "Historic streets · Gardens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "aliases": [
+        "brasil",
+        "brazilian"
+      ],
+      "cities": [
+        {
+          "id": "rio",
+          "name": "Rio de Janeiro",
+          "country": "Brazil",
+          "category": "country",
+          "categoryLabel": "City discovery",
+          "mood": "Between the mountains and the sea.",
+          "activity": "Coastal scenery · City culture",
+          "timeZone": "America/Sao_Paulo",
+          "mapQuery": "Rio de Janeiro Brazil",
+          "description": "Dramatic mountains meet Atlantic shores in a city with a distinctive landscape, celebrated music and colorful urban culture.",
+          "details": "Rio de Janeiro is known for its coastal setting, mountains and recognizable landmarks such as Sugarloaf Mountain and Christ the Redeemer. Discover its history and cultural life alongside the waterfront scenery. Consult current official travel guidance when planning any visit.",
+          "imageAlt": "Rio de Janeiro with mountains, coastline and city buildings",
+          "imageUrl": "images/rio.webp",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+          "tags": [
+            "country",
+            "City discovery",
+            "Between the mountains and the sea.",
+            "Coastal scenery · City culture"
+          ]
+        },
+        {
+          "id": "sao-paulo",
+          "name": "São Paulo",
+          "country": "Brazil",
+          "category": "country",
+          "categoryLabel": "City discovery",
+          "mood": "A city with a thousand stories.",
+          "activity": "Art museums · Neighborhood life",
+          "timeZone": "America/Sao_Paulo",
+          "mapQuery": "Sao Paulo Brazil",
+          "description": "A vast metropolis with an energetic arts scene, varied neighborhoods and a rich culinary culture. Follow your interests into a different side of Brazil.",
+          "details": "São Paulo is Brazil’s largest city and a major cultural and economic center. Explore museums, public parks and neighborhoods shaped by many different communities. Its range of galleries and food traditions offers a rewarding starting point for travelers who enjoy urban exploration.",
+          "imageAlt": "São Paulo urban skyline in Brazil",
+          "imageUrl": "images/sao-paulo.webp",
+          "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "tags": [
+            "country",
+            "City discovery",
+            "A city with a thousand stories.",
+            "Art museums · Neighborhood life"
+          ]
+        }
+      ]
+    }
+  ]
+}
